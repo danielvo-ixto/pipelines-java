@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vdaniel0668/nuproject_tutorial/_apis/build/status/danielvo-ixto.pipelines-java?branchName=master)](https://dev.azure.com/vdaniel0668/nuproject_tutorial/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
